@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thinkimaginative0@gmail.com
 
-(https://github-readme-stats.vercel.app/api?username=thinkimaginative0&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thinkimaginative0&show_icons=true)
 
 
 <!---
