@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thinkimaginative0@gmail.com
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=thinkimaginative0)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=thinkimaginative0&show_icons=true)
 
 
